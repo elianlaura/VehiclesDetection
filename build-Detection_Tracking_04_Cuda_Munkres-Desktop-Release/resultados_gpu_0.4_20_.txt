@@ -1,0 +1,5 @@
+acum_op: 1508
+acum_dp: 1772
+total_boxes: 1836
+overlap_precision: 0.821351
+distance_precision: 0.965142
